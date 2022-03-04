@@ -29,7 +29,9 @@ Special 2048 game
 # Requirements
   * Python 3
 
-  * Run `> pip install -r requirements.txt` to install colorama library
+  * Download all files into a folder
+
+  * Run `> pip install -r requirements.txt` from command line to install colorama library
 
 # How to start game 
 
