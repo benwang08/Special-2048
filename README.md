@@ -33,6 +33,6 @@ Special 2048 game
 
 # How to start game 
 
-'> ./game_driver.py'
+`> ./game_driver.py`
 
 
