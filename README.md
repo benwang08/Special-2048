@@ -3,8 +3,7 @@ Special 2048 game
 
 # Description
 
-![image](https://user-images.githubusercontent.com/73961415/156679155-0346bb02-f27a-4900-af64-a6892cdb5e6e.png)
-![image](https://user-images.githubusercontent.com/73961415/156679462-1af193c0-30fa-4449-8b96-536b02de0901.png)
+
 ![image](https://user-images.githubusercontent.com/73961415/156679443-334f57e9-394e-404c-90e5-093f18220272.png)
 
 ![image](https://user-images.githubusercontent.com/73961415/156679179-6304450e-986c-4914-ac40-22ebca5ae838.png)
