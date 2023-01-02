@@ -32,8 +32,8 @@ Special 2048 game
 
   * Run `> pip install -r requirements.txt` from command line to install colorama library
 
-# How to start game 
+# How to start game (must be run in Windows command prompt)
 
-`> ./game_driver.py`
+`> python3 game_driver.py`
 
 
